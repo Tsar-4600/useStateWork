@@ -1,0 +1,5 @@
+ol li{
+    border-bottom: 1px solid black;
+    border-top: solid 1px black;
+    text-align: left;
+}
